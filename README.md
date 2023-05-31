@@ -1,1 +1,1 @@
-# nano-quadcopter-heat-source-detection
+# Nano Quadcopter Heat Source Detection
